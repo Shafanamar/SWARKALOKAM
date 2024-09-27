@@ -2,7 +2,7 @@ const { SlashCommandBuilder } = require('@discordjs/builders');
 const { EmbedBuilder } = require('discord.js');
 
 const lang = require('../../events/loadLanguage');
-const apiKey = 'AIzaSyBuif-wNw_Eov5TESRW15qEsn3buSdrxqc'; 
+const apiKey = ''; 
 async function translateText(text, targetLanguage) {
     const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
 
