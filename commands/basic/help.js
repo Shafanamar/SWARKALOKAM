@@ -84,7 +84,7 @@ module.exports = {
                     title: 'Bot Information',
                     description: `Welcome to the help command! This bot provides a variety of commands to enhance your server experience. Below are the categories and the number of commands available in each.`,
                     commands: [
-                        `**💜 Bot Developer:** GlaceYT\n`+
+                        `**💜 Bot Developer:** ZephyrVex\n`+
                         `**Bot Version:** 1.0.0\n`+
                         `**Total Servers:** ${totalServers}\n`+
                         `**Total Members:** ${totalMembers}\n`+
@@ -93,9 +93,9 @@ module.exports = {
                         `**Enabled Categories:** ${enabledCategoriesList.join(', ')}\n`+
                         `**Disabled Categories:** ${disabledCategoriesList.join(', ')}\n`,
                     ],
-                    image: "https://cdn.discordapp.com/attachments/1264134884432285766/1270352605154902151/GlaceYT.gif?ex=66b3638f&is=66b2120f&hm=23878b54affd61573b105db7c1c016eb730911dc762b3fbabac5a32cbc884119&",
+                    image: "https://cdn.discordapp.com/attachments/1279306679787458561/1288152949524008991/Picsart_24-08-31_18-56-29-999.jpg?ex=66f819eb&is=66f6c86b&hm=f1ce0ed69442fc1d50bbc6cf9f60a91d2fa03ae4ee0a6e614568f75f82448351&",
                     color: "#3498db",
-                    thumbnail: "https://cdn.discordapp.com/attachments/1264134884432285766/1270353776489922651/s_removed.png?ex=66b364a6&is=66b21326&hm=2d4ded259b57f476c901c58401e1d6faba2653c0a964ee1c4f371ecf3da52100&",
+                    thumbnail: "https://cdn.discordapp.com/attachments/1279306679787458561/1287269267154145301/standard.gif?ex=66f82ead&is=66f6dd2d&hm=59aae1cc114aac14807ac92465c7a266af6f94c40e8e1bd6b5762a45b421601f&",
                     author: {
                         name: 'All In One',
                         iconURL: "https://cdn.discordapp.com/attachments/1246408947708072027/1255167194036437093/1558-zerotwo-exciteddance.gif?ex=667c250a&is=667ad38a&hm=09e6db36fd79436eb57de466589f21ca947329edd69b8e591d0f6586b89df296&",
