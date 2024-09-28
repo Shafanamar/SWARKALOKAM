@@ -63,7 +63,7 @@ module.exports = async (client) => {
                 const welcomecard = new Wcard()
                     .setName(userName)
                     .setAvatar(member.user.displayAvatarURL({ format: 'png' }))
-                    .setTitle("Welcome to Server")
+                    .setTitle("Welcome to NOTORIOUS 47")
                     .setColor("00e5ff") 
                     .setBackground(randomImage);
                 
@@ -71,7 +71,7 @@ module.exports = async (client) => {
                 const attachment = new AttachmentBuilder(card, { name: 'welcome.png' });
 
                 const embed = new EmbedBuilder()
-                    .setTitle("Welcome to Zx Brothers!")
+                    .setTitle("Welcome to NOTORIOUS 47)
                     .setDescription(`${member}! You are the **${memberCount}${suffix}** member of our server!`)
                     .setColor("#00e5ff")
                     .setThumbnail(member.user.displayAvatarURL())
