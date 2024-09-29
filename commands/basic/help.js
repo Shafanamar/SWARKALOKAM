@@ -93,7 +93,7 @@ module.exports = {
                         `**Enabled Categories:** ${enabledCategoriesList.join(', ')}\n`+
                         `**Disabled Categories:** ${disabledCategoriesList.join(', ')}\n`,
                     ],
-                    image: "https://cdn.discordapp.com/attachments/1279306679787458561/1288152949524008991/Picsart_24-08-31_18-56-29-999.jpg?ex=66f819eb&is=66f6c86b&hm=f1ce0ed69442fc1d50bbc6cf9f60a91d2fa03ae4ee0a6e614568f75f82448351&",
+                    image: "https://cdn.discordapp.com/attachments/1279306679787458561/1287269267154145301/standard.gif?ex=66f0ee6d&is=66ef9ced&hm=bbafd7ec16c87917cfe0e8644ba5b268341f63cabeded92c4d7ba2bb74ccadf7&",
                     color: "#3498db",
                     thumbnail: "https://cdn.discordapp.com/attachments/1279306679787458561/1287269267154145301/standard.gif?ex=66f0ee6d&is=66ef9ced&hm=bbafd7ec16c87917cfe0e8644ba5b268341f63cabeded92c4d7ba2bb74ccadf7&",
                     author: {
